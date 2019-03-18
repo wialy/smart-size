@@ -1,8 +1,8 @@
 # smart-size
 
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+Easily convert javascript values to css-friendly format, useful for any `css-in-js` library or with `styled-components`.
 
-This package allows easily convert javascript value to css-friendly format, useful for any `css-in-js` library or with `styled-components`.
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Usage
 
