@@ -4,14 +4,20 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Alex Ilchenko <ilczenko@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wialy/smart-size.git"
+  },
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.3.4",
-    "@babel/preset-env": "^7.3.4",
+    "eslint": "^5.14.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
     "mocha": "^6.0.2"
   },
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "mocha"
+    "test": "mocha --watch"
   }
 }
