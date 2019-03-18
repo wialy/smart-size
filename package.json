@@ -1,9 +1,21 @@
 {
   "name": "smart-size",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "Alex Ilchenko <ilczenko@gmail.com>",
+  "keywords": [
+    "css-in-js",
+    "styled-components",
+    "css",
+    "style",
+    "units",
+    "convert",
+    "padding",
+    "margin",
+    "box model",
+    "responsive"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:wialy/smart-size.git"
