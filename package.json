@@ -4,7 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Alex Ilchenko <ilczenko@gmail.com>",
-  "repository": "github:wialy/smart-size",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wialy/smart-size.git"
+  },
   "devDependencies": {
     "eslint": "^5.14.1",
     "eslint-config-standard": "^12.0.0",
