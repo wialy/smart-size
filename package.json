@@ -18,6 +18,7 @@
     "mocha": "^6.0.2"
   },
   "scripts": {
-    "test": "mocha --watch"
+    "test": "mocha --watch",
+    "lint": "eslint ./src/**/*.js"
   }
 }
