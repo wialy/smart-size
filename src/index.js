@@ -40,5 +40,5 @@
   const create = defaults => (size, config) =>
     smartSize(size, { ...defaults, ...config })
 
-  module.exports = { default: smartSize, create }
+  module.exports = { __esModule: true, default: smartSize, create }
 })()
